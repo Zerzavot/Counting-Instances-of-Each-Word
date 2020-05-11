@@ -14,10 +14,10 @@ For example, if the vocabulary includes:<br><br>
 
 Your program will print to the std. output the following text:<br>
 
-> Vocabulary Size = 3
-> ayse 3
-> barni 1
-> mehmet 4
+> Vocabulary Size = 3<br>
+> ayse 3<br>
+> barni 1<br>
+> mehmet 4<br>
 
 Notice that, all words in the vocabulary should be treated case insensitively;<br> and the words must be
 printed in small letters.<br>
