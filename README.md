@@ -22,8 +22,8 @@ g++ solution.cpp
 ./a.out<tolstoy_input.txt>output1.txt
 
 ```
-You can try this code with diffrent samples.You only need to change input file name.
-Also if you wanna see the results in terminal dont use output1.txt
-You can check the results in here
+You can try this code with diffrent samples.You only need to change input file name.<br>
+Also if you wanna see the results in terminal dont use output1.txt<br>
+You can check the results in here<br><br>
 
 ![Ekran Görüntüsü - 2020-05-11 15-56-12](https://user-images.githubusercontent.com/50207648/81564655-c2c59300-93a0-11ea-86fc-e85f8af0fc61.png)
